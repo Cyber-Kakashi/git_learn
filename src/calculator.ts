@@ -5,3 +5,7 @@ function calculate_sum (a: number, b: number): number {
 function calculate_subtract (a: number, b: number): number {
     return a-b;
 }
+
+function calculate_divide (a: number, b: number): number {
+    return a/b;
+}
